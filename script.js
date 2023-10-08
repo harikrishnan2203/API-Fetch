@@ -24,6 +24,7 @@ row.className = "row";
 
 container.append(row);
 
+
 function bar(value){
     for(let i = 0; i<value.length;i++){
         row.innerHTML += `
